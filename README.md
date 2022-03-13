@@ -12,10 +12,10 @@
 
 ----
 ### ♿ Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/EtirafClubBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yunusmka/EtirafClubBot)
 
 
 ### ⚠️ Qeyd
- Repo <a href="https://t.me/aykhan_s">aykhan_s</a> tərəfindən telethon 1.24 istifadə edilərək yazılıb. Kopyalamaq dəyişdirməy və ya öz githubunuza yükləməy qəti qadağandır
+ Repo <a href="https://t.me/mkaofc">mkaofc</a> tərəfindən telethon 1.24 istifadə edilərək yazılıb. Kopyalamaq dəyişdirməy və ya öz githubunuza yükləməy qəti qadağandır
 ### ℹ️ Copyright
 Bizi telegramda izləyin <a href="https://t.me/RoBotlarimTg">RoBotlarımTg👨🏻‍💻</a>
